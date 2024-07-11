@@ -1,5 +1,5 @@
 # INTRODUCTION
-Greetings, I am Warjot Kaur, a passionate B.Tech Computer Science and Engineering student. I have a keen interest in learning new programming languages and exploring various parts of the tech field. My journey began with HTML and CSS, and I am currently advancing my skills by learning JavaScript. I have created several landing pages using HTML and CSS. While these pages are not yet responsive, I am actively working on mastering responsive web design techniques and am confident that, with proper guidance, I will achieve this goal.
+Greetings, I am Warjot Kaur, a passionate B.Tech Computer Science and Engineering student with the passion of learning new programming languages and exploring the tech field. My journey began with HTML and CSS, and I am currently learning JavaScript. I have created several landing pages and am working on mastering responsive web design techniques.
 
 ## Education
 - Matriculation: F. A. S. W. Mem. Public Senior Secondary School, 2022
