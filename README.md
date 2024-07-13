@@ -4,17 +4,28 @@ Greetings, I am Warjot Kaur, a passionate B.Tech Computer Science and Engineerin
 ## Education
 
 - Matriculation: F. A. S. W. Mem. Public Senior Secondary School, 2022
-- 
-  | SUBJECT | MARKS OBTAINED FROM 100 |
-  _____________________________________
-  | English | 80 |
-  | Science | 87 |
-  | Social Science | 93 |
-  | Mathematics | 87 |
-  | Punjabi | 91 |
-  | Hindi | 95 |
+
+  |SUBJECT|MARKS OBTAINED FROM 100|
+  |-------|-----------------------|
+  |English|80|
+  |Science|87|
+  |Social Science|93|
+  |Mathematics|87|
+  |Punjabi|91|
+  |Hindi|95|
+  |Total Marks|533| 
   
 - Senior Secondary: Akal Academy, 2024
+
+  |SUBJECT|MARKS OBTAINED FROM 100|
+  |-------|-----------------------|
+  |English|87|
+  |Chemistry|95|
+  |Physics|84|
+  |Mathematics|83|
+  |Punjabi|98|
+  |Physical education|92|
+  |Total Marks|539|
 
 ## Projects
 Here are some of the projects which I have completed:
