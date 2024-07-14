@@ -35,3 +35,5 @@ Here are some of the projects which I have completed:
 ## Contact Us
 For any inquiries or further information, please contact:
 - Email: curiouscodeseeker@gmail.com
+## Blog Posts
+[View my Blogs](my_experience/Post1.md)
