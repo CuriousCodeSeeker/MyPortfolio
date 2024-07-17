@@ -41,5 +41,6 @@ So,this was my blog of last two days it will continue further...
 
 For reaching back to activity page 
 Click here:
-[Get back to the main page](
+
+[Get back to the main page](https://github.com/CuriousCodeSeeker/Coder.github.io)
 
