@@ -8,3 +8,6 @@ It is the main part for me because in that lecture I revised all the formulas re
 
 This is how I spent second day of my college....
 
+For reaching back to activity page Click here:
+
+Get back to the main page
