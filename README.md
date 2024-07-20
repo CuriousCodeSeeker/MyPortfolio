@@ -55,6 +55,10 @@ My excel e-certificate
 | | 9:30AM-11:00AM | Dr. Pyare lal garg | Important values - moral and ethical |
 | | 11:00AM-12:30PM | Mr. Sony Goyal | Motivating preaches |
 | | 1:15PM-2:30PM | Mr. pancham Jai Singh Gill | Importance of body language in day to day corporate life |
+| 16-07-2024 |
+| 17-07-2024 |
+| 18-07-2024 |
+| 19-07-2024 |
 
 
 ## Contact Us
