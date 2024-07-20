@@ -39,6 +39,12 @@ My excel e-certificate
 ![1000003242](https://github.com/user-attachments/assets/a98d4acb-4eba-48a9-9672-8a518be6ae6c)
 
 
+### College induction program 
+
+| Date | Timmings | Speaker | Main idea |
+| -------- | --------- | -------- | -------- |
+| 11-07-2024 | 
+
 ## Contact Us
 For any inquiries or further information, please contact:
 - Email: curiouscodeseeker@gmail.com
