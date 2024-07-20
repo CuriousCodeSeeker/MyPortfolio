@@ -41,7 +41,7 @@ My excel e-certificate
 
 ### College induction program 
 
-| Date | Timmings | Speaker | Main idea |
+| Date | Timmings | Speaker | Main idea | 
 | -------- | --------- | -------- | -------- |
 | **Auditorium session** | |  | |  |
 | 11-07-2024 | 9:00AM-10:00AM | Dr. Arvind Dhingra | Introduction regarding rules and regulations of college |
