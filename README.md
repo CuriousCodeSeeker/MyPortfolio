@@ -55,10 +55,20 @@ My excel e-certificate
 | | 9:30AM-11:00AM | Dr. Pyare lal garg | Important values - moral and ethical |
 | | 11:00AM-12:30PM | Mr. Sony Goyal | Motivating preaches |
 | | 1:15PM-2:30PM | Mr. pancham Jai Singh Gill | Importance of body language in day to day corporate life |
-| 16-07-2024 |
-| 17-07-2024 |
-| 18-07-2024 |
-| 19-07-2024 |
+| **English Activities** |
+| 16-07-2024 | 1:30PM-3:30PM | Seniors of 2nd and 3rd year | English Activities |
+| **Basic classes** |
+| 17-07-2024 | 9:00AM-11:00AM | SKG Mam | Question solvation of differentiation and intigration |
+|| 11:15AM-1:15PM | Manjot kaur Mam | Universal Human Values |
+| 18-07-2024 | 9:00AM-10:45AM | Manjot kaur Mam |  Universal Human Values |
+|| 1:00AM-12:45PM | Mr. Karanveer Singh (2nd year student) | MS Excel & Chat GPT Introduction |
+| **Auditorium session** |
+|| 1:30PM-2:30PM | Dr. Harwinder Singh | About National Cadet Corps |
+|| 2:30PM-3:30PM | Er. Jasvir Singh Grewal | About National Service Scheme |
+| **Auditorium session** |
+| 19-07-2024 | 9:00AM-10:00AM | Er. Kanwardeep kalra | Role of behaviour in corporate life |
+|| 10:00AM-12:30PM | Pr. Jaswinder Singh | Mathematics is involved in everything |
+|| 1:30PM-3:30PM | Pr. Daljeet Singh | Departmental Visit |
 
 
 ## Contact Us
