@@ -43,7 +43,11 @@ My excel e-certificate
 
 | Date | Timmings | Speaker | Main idea |
 | -------- | --------- | -------- | -------- |
-| 11-07-2024 | 
+| **Auditorium session** | |  | |  |
+| 11-07-2024 | 9:00AM-10:00AM | Dr. Arvind Dhingra | Introduction regarding rules and regulations of college |
+|           | 10:00AM-11:00AM | Dr. Parminder Singh | About national and departmental level societies |
+| | 11:00AM-12:00PM | Dr. H.S.Rai | Detailed information about new technology and its advancement |
+
 
 ## Contact Us
 For any inquiries or further information, please contact:
