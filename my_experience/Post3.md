@@ -30,3 +30,8 @@ some of them are :
 
 JOSH - "Journey on success highway"
 
+ Sir started his lecture by telling us a story of a small boy (whom he called shubhi for that time) it was all about balloons the coloured ones were already 
+ sold also shubhi do not had reqiured amount to buy the ballooon so he bought black balloon within that amount so the shubhi doubted on balloonseller the balloon must be the faulty one 
+ so he asked the seller then seller replied that the potential of balloon doesn't measured by its color it would go as higher as all others go .
+ 
+
