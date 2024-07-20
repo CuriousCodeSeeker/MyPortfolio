@@ -48,7 +48,13 @@ My excel e-certificate
 |           | 10:00AM-11:00AM | Dr. Parminder Singh | About national and departmental level societies |
 | | 11:00AM-12:00PM | Dr. H.S.Rai | Detailed information about new technology and its advancement |
 | **Basic classes** |
-| 12-07-2024 | 
+| 12-07-2024 | 9:00AM-10:30AM | Mr. Summit (2nd year student) & Mr.Davinder Singh {4th year student) | Introduced official website of GNDEC |
+| | 11:00AM-12:30PM | SKG Mam | Revision of differentiation,intigration & differential equations |
+| **Auditorium session** |
+| 15-07-2024 | 9:00AM-9:30AM | Dr. Randhir Singh | About making website on github |
+| | 9:30AM-11:00AM | Dr. Pyare lal garg | Important values - moral and ethical |
+| | 11:00AM-12:30PM | Mr. Sony Goyal | Motivating preaches |
+| | 1:15PM-2:30PM | Mr. pancham Jai Singh Gill | Importance of body language in day to day corporate life |
 
 
 ## Contact Us
