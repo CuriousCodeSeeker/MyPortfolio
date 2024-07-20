@@ -40,4 +40,4 @@ So,this was my blog of last two days it will continue further...
 
 Click here to get back to the main page:
 
-[MAIN PAGE...](https://github.com/CuriousCodeSeeker/MyPortfolio/blob/main/README.md)
+[MAIN PAGE...](https://curiouscodeseeker.github.io/MyPortfolio/)
