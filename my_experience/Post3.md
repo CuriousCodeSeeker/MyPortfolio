@@ -12,3 +12,21 @@ on thier particular website to get satisfactory grade in iduction program .
 
 ## Dr. Pyare lal garg 
 
+Sir pyare lal garg shared a lot of good thoughts with all the students present in the auditorium.
+some of them are :
+- Human behaviour (desire to be good ,courage,fear) remains the same.
+- Teachers are a kind of earthlamp for students.
+- An individual would find so many obstacle but one should be determined towards their goals.
+- The outside emotions are awaken upto only that time till your inner ones didn't enlightened.
+- Whenever a person get an opportunity always try to be positive and never give up on any of them.
+- He told us about the history of banaras visit of shri guru nanak dev ji.
+- **Change is the law of nature it is continuous and uninterupted,in this only the state of energy is changed either it is reduced or gained.**
+- He also taught us that always try to experience contentment even in the condition of sorrow.
+- _Accept your defeat but never loose hope try again in order to get desired result._
+-  He told us that if the circumstances are positive the sometimes they would going tpo be negative as well he illustrated this statement by giving example that if there is no grief then how would we able to enjoy happiness , and if people don't feel hunger then how do they enjoy their meals .
+-  Eventually,he stated that always try to find out the root cause of the problem,acomplish your promises and help others.
+
+## Mr. Sony Goyal
+
+JOSH - "Journey on success highway"
+
