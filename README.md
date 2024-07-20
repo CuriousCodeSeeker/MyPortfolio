@@ -32,6 +32,13 @@ Here are some of the projects which I have completed:
 - [Amazon Clone](https://curiouscodeseeker.github.io/AmazonClone/)
 - [Funcorp Clone](https://curiouscodeseeker.github.io/FuncorpClone/)
 
+## Achievements 
+
+My excel e-certificate 
+
+![1000003242](https://github.com/user-attachments/assets/a98d4acb-4eba-48a9-9672-8a518be6ae6c)
+
+
 ## Contact Us
 For any inquiries or further information, please contact:
 - Email: curiouscodeseeker@gmail.com
