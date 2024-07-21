@@ -18,7 +18,4 @@ solve thequestions without any difficulty.
 
 This is how I spent second day of my college....
 
-For reaching back to activity page 
-Click here:
 
-[Get back to the main page](https://github.com/CuriousCodeSeeker/Coder.github.io)
