@@ -75,4 +75,4 @@ My excel e-certificate
 For any inquiries or further information, please contact:
 - Email: curiouscodeseeker@gmail.com
 ## Blog Posts
-[View my Blogs](my_experience/Post1.md)
+[View my blogs](https://github.com/CuriousCodeSeeker/MyPortfolio/tree/main/my_experience)
