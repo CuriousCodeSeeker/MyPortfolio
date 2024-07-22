@@ -35,3 +35,7 @@ JOSH - "Journey on success highway"
  so he asked the seller then seller replied that the potential of balloon doesn't measured by its color it would go as higher as all others go .
  
 
+## Mr. Pacham jai Singh Gill 
+
+All he talked about was body language and its importance in corporate life .
+one can judge the internal emotions of an individual by looking into the details of his/her body posture .
